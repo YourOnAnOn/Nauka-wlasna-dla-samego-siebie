@@ -1,0 +1,19 @@
+body {
+    justify-content: center;
+
+}
+.overcontainer {
+    width: auto;
+    border: 1px black;    
+}
+.container {
+    width: 15%;
+}
+
+input {
+    float:right;
+}
+button {
+    margin: 10px 0px;
+    float: right;
+}
