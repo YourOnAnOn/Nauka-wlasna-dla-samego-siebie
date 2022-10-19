@@ -1,4 +1,6 @@
-/* Style obrazka */
+/* Style obrazka 
+nadałem mu krztałt koła oraz szerokość i wysokośc 300px, dodałem również funkcję float: left; 
+która sprawia że obrazek będzie domyślnie wyświetlał się po lewiej stornie */
 .obrazek {
     clip-path: circle(50% at 50% 50%);
     height: 300px;
