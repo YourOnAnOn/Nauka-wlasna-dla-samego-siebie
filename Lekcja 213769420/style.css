@@ -1,0 +1,18 @@
+/* Style obrazka */
+.obrazek {
+    clip-path: circle(50% at 50% 50%);
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    float: left;
+    shape-outside: circle(50%);
+}
+/* Tutaj ustawiłem kolor tła i tekstu na stronie */
+body {
+    background-color: black;
+    color: wheat;
+}
+/* Margines do akapitu (każdego) */
+p {
+    margin-left: 10px;
+}
